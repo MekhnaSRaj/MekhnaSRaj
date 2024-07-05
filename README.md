@@ -9,6 +9,6 @@ As a final-year BTech student specializing in Computer Science, I am passionate 
 
 During my studies, I have:
 
-Developed A Chatbot that provides information about the services offered by Akshaya Centres if Kerala using Rag and Gemini pre trained model.
+Developed A Chatbot that provides information about the services offered by Akshaya Centres of Kerala using Rag and Gemini pre trained model.
 Completed internships at CDAC, where I worked on a project that predicts the outcome of Kerala Lok sabha election based on previous election results.
 
